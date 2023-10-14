@@ -2,7 +2,7 @@
 - 👀 I’m interested in Economy
 - 🌱 I’m currently learning Economics
 - 💞️ I’m looking to collaborate on my job
-- 📫 How to reach me by Email me
+- 📫 How to reach me by Email me on outlook
 
 <!---
 EmamiErfan/EmamiErfan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
