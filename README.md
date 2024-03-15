@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EmamiErfan
 - 👀 I’m interested in Economy
 - 🌱 I’m currently learning Economics
-- 💞️ I’m looking to collaborate on my work  
+- 💞️ I’m looking to collaborate on my work   
 - 📫 How to reach me by Email                                                                                                                          
  
 <!---
